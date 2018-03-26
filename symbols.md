@@ -20,7 +20,7 @@
 |  - | subtraction |
 |  ∑ | summation or sum of |
 |  { |  either or --- generally used to denote cases, for example piecewise functions with behaviour like 'if this, that. Otherwise, this different thing'. |
-| |...| | No of bytes
+| \|...\| | No of bytes
 |  ⌊...⌋ | floor,lowest element |
 |  ⌈...⌉ | ceiling, highest element |
 | [ *a*, *b*) |  real numbers greater than or equal to a and less than b |
